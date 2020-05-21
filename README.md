@@ -21,3 +21,6 @@ build and flash to esp32 using ESP-IDF  and Docker
  ```
  sudo docker run --rm -it -v <PROJECT_DIRECTORY>:/proj --device=/dev/tty.usbserial-69526807B6 esp-build flash
  ```
+
+# For detailed information check:
+[DETAILED INFO TO SETUP AND BUILD ON UBUNTU 18.04](https://github.com/pauljoegeorge/Esp32-dev-on-Docker/blob/master/SETUP-on-ubuntu.md)
